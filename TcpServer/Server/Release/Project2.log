@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\lee\desktop\lee\project1\project2\源.cpp(8): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project2.vcxproj -> C:\Users\lee\Desktop\lee\Project1\Release\Project2.exe
